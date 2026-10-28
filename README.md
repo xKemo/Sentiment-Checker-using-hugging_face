@@ -1,4 +1,4 @@
-# hugging_face
+# Campus Comment Sentiment Checker using hugging_face
 
 Holds Advanced Programming resources for Hugging Face 
 <ul>
